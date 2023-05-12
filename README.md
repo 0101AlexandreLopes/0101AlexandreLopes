@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou Alexandre Lopes
-- 👀 Eu me interesso por novas technologies
+- 👀 Eu me interesso por novas tecnologias
 - 🌱 No momento estou estudando Python e Html
 
 
