@@ -1,7 +1,7 @@
 - 👋 Hello, I'm @0101AlexandreLopes
 - 👀 I am interested in new technologies
-- 🌱 I am currently learning python and Html
--
+- 🌱 I am currently learning Python e Html
+
 
 
 <!---
