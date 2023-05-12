@@ -1,6 +1,6 @@
-- 👋 Hello, I'm @0101AlexandreLopes
-- 👀 I am interested in new technologies
-- 🌱 I am currently learning Python e Html
+- 👋 Olá, eu sou Alexandre Lopes
+- 👀 Eu me interesso por novas technologies
+- 🌱 No momento estou estudando Python e Html
 
 
 
