@@ -9,5 +9,4 @@
 
 
 ![lexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=0101AlexandreLopes&show_icons=true&theme=radical)
-
-
+![Linkedin](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
