@@ -8,5 +8,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandredasilvalopes/)
 
 
-![lexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=0101AlexandreLopes&show_icons=true&theme=radical)
-![Linkedin](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
+![lexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=0101AlexandreLopes&show_icons=true&theme=radical) 
+
+![lexandre GitHub Giphy](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif) 
+
