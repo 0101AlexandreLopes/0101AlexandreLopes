@@ -1,5 +1,4 @@
 - 👋 Olá, eu sou Alexandre Lopes
-- 👀 Eu me interesso por novas tecnologias
 - 🌱 No momento estou estudando Python e Html
 
 [![Telegranm](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/@aslopeSlopes)
