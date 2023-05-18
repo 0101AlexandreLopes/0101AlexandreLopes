@@ -9,7 +9,7 @@
 
 
 ![lexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=0101AlexandreLopes&show_icons=true&theme=radical) 
-  ![lexandre GitHub stats](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif) 
+  ![lexandre GitHub stats](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUyNjVhMjViMDdhZmRlNTNmYjg4NjkxYmRhOTg1NTM1NjNiMTFmMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/eqlekBdMQdiiFpetcd/giphy.gif) 
 
 
 
